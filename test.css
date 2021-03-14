@@ -1,0 +1,41 @@
+.nav{
+    position: relative;
+     
+    
+}
+.navbar{
+    height: 100px;
+    background-color: white;
+}
+.background{
+    color: #ffa40c !important;
+    width: 100%;
+    height: 100%;
+}
+
+.headline h1{
+    color: white;
+}
+.headline p{
+    color: white;
+}
+section{
+    float: left;
+}
+.card{
+    width: 457px;
+    height: 553px;
+    float: right;
+    margin-left: 300px;
+    margin-top: 40px;
+}
+.card h3{
+    color: black;
+}
+.card p,.card-body{
+    color: #aaa;
+}
+
+.survice{
+    margin-top: 50px;
+}
